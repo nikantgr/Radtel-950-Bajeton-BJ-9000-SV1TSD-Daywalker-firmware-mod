@@ -15,6 +15,9 @@
 
 ---
 
+## English video: https://youtu.be/elDeHwtF6hM
+## Greek video: 
+
 # SV1TSD Firmware for the Radtel RT-950 Pro / Bajeton BJ9000
 
 Ultra 02 by SV1TSD builds on official Radtel V0.30 and adds faster memory and VFO scanning. Choose the original dark display or the DayWalker green LCD-style display.

@@ -16,7 +16,7 @@
 ---
 
 ## English video: https://youtu.be/elDeHwtF6hM
-## Greek video: 
+## Greek video: https://youtu.be/Fa2s6wXo_v0
 
 # SV1TSD Firmware for the Radtel RT-950 Pro / Bajeton BJ9000
 
